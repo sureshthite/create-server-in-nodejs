@@ -1,2 +1,2 @@
 # node.js-
-This is about - how to create server using node.js.
+About - how to create server using node.js.
